@@ -11,9 +11,12 @@
 	<ItemGroup>
 		<Reference Include="Assembly-CSharp" />
 		<Reference Include="DV.Common" />
+		<Reference Include="DV.Inventory" />
+		<Reference Include="DV.Localization" />
+		<Reference Include="DV.Simulation" />
 		<Reference Include="DV.ThingTypes" />
-		<Reference Include="DV.UserManagement" />
 		<Reference Include="DV.Utils" />
+		<Reference Include="DV.UserManagement" />
 	</ItemGroup>
 
 	<!-- Unity -->

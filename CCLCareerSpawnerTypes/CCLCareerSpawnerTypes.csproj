@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <Reference Include="UnityEngine.CoreModule" />
+		<Reference Include="DV.ThingTypes" />
   </ItemGroup>
 
 	<Target Name="PostBuild" AfterTargets="PostBuildEvent">
