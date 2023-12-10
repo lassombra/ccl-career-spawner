@@ -1,6 +1,6 @@
 {
 	"Id": "CCLCareerSpawner",
-	"Version": "1.0.0.RC1",
+	"Version": "1.0.0.rc2",
 	"DisplayName": "CCLCareerSpawner",
 	"Author": "lassombra",
 	"EntryMethod": "CCLCareerSpawner.Main.Load",
