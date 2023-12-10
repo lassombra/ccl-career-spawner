@@ -9,14 +9,9 @@
 
 <!-- PROJECT TITLE -->
 <div align="center">
-	<h1>Unity Mod Manager Mod Template</h1>
+	<h1>CCL Career Spawner</h1>
 	<p>
-		A template for creating <a href="http://www.derailvalley.com/">Derail Valley</a> mods that load via <a href="https://www.nexusmods.com/site/mods/21">Unity Mod Manager</a>.
-		<br />
-		<br />
-		<a href="https://github.com/derail-valley-modding/template-umm/issues">Report Bug</a>
-		·
-		<a href="https://github.com/derail-valley-modding/template-umm/issues">Request Feature</a>
+		An update that enables the radio spawner in career but adds a cost similar to how work trains work.  This mod depends on CCL as well as on the cars created for CCL having a specific component in order to work.
 	</p>
 </div>
 
@@ -41,9 +36,7 @@
 
 ## About The Project
 
-This is a template for Derail Valley mods that load via the Unity Mod Manager mod loader.  
-TODO: Instructions for how mod creators use this template.
-
+Adds cars which have the "CCL Career Cost" component in their prefab to the spawn radio specifically in career mode, allowing spawning and allowing for that spawning to have a cost limited by difficulty
 
 
 
